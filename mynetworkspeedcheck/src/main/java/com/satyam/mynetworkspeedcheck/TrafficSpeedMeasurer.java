@@ -7,7 +7,7 @@ import android.os.Looper;
 import android.os.Message;
 import android.os.SystemClock;
 
-
+//satyam nov 18 2021 comment
 public class TrafficSpeedMeasurer {
 
     private ITrafficSpeedListener mTrafficSpeedListener;
